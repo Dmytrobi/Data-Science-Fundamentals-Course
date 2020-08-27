@@ -1,2 +1,2 @@
 # Data-Science-Fundamentals-Course
-sda
+Practical exercises from Data Science Fundamentals by DataRoot Labs
